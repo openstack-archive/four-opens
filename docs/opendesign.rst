@@ -16,9 +16,9 @@ The Four Opens are all about the acceptance of letting go of control over an
 open source project. One popular open source development model for an
 organization to release it has developed under an open source license. While
 most of them will also commit to a transparent and inclusive development
-process, the still frequently maintain control of the software with most of the
-design decisions being made by organization leaders and implemented by their
-employees. The principle of "Open design" takes this one step beyond and
+process, they still frequently maintain control of the software with most of
+the design decisions being made by organization leaders and implemented by
+their employees. The principle of "Open design" takes this one step beyond and
 guarantees a transparent and open process for planning and designing the
 software. It's about letting go of the control of the design of the software
 and its feature road-map, and accepting that it should be driven by the
@@ -40,7 +40,7 @@ The "Open Design" Principle in Practice
 ---------------------------------------
 
 Open Design begins with the establishment of a structure to guide the "when",
-"how", and "where" of the design process. Then "when" refers to the
+"how", and "where" of the design process. The "when" refers to the
 release-cadence of the software, particularly if it is a feature-based or
 time-based release. A feature-based release allows the community to reach a
 consensus on required capabilities a release should have, then only deliver the

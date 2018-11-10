@@ -63,7 +63,7 @@ In practice, individual and corporate contributors need to understand the
 consequences of contributing code to an Apache Licensed project, particularly
 the granting of copyright and patent licenses to all users of the software. To
 acknowledge this, many projects require that all contributors sign a
-"Contributor License Agreements" (CLA) [#OSCLA]_ or "Developer Certification of
+"Contributor License Agreement" (CLA) [#OSCLA]_ or "Developer Certificate of
 Origin" (DCO). Typically, a CLA is a stronger statement, attesting that a
 contributor has a right to submit work to the project and that they are
 granting copyright and patent licenses in accordance with the Apache License
