@@ -51,7 +51,7 @@ The "Open Source" Principle in Practice
 ---------------------------------------
 
 "Open Source" begins with the choice of license a community applies to its
-project. In the case of the OpenStack Foundation, we use v2.0 of the Apache
+project. In most cases at the OpenStack Foundation, we use v2.0 of the Apache
 License [#apachev2]_. The license meets the requirements of being able to modify and
 redistribute a work. It includes a number of provisions that also protect
 end-users by granting copyright and patent licenses to all end users, while
