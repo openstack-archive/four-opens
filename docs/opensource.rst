@@ -51,7 +51,7 @@ The "Open Source" Principle in Practice
 ---------------------------------------
 
 "Open Source" begins with the choice of license a community applies to its
-project. In the case of the OpenStack Foundation, we use v2.0 of the Apache
+project. In most cases at the OpenStack Foundation, we use v2.0 of the Apache
 License [#apachev2]_. The license meets the requirements of being able to modify and
 redistribute a work. It includes a number of provisions that also protect
 end-users by granting copyright and patent licenses to all end users, while
@@ -63,7 +63,7 @@ In practice, individual and corporate contributors need to understand the
 consequences of contributing code to an Apache Licensed project, particularly
 the granting of copyright and patent licenses to all users of the software. To
 acknowledge this, many projects require that all contributors sign a
-"Contributor License Agreements" (CLA) [#OSCLA]_ or "Developer Certification of
+"Contributor License Agreement" (CLA) [#OSCLA]_ or "Developer Certificate of
 Origin" (DCO). Typically, a CLA is a stronger statement, attesting that a
 contributor has a right to submit work to the project and that they are
 granting copyright and patent licenses in accordance with the Apache License
@@ -94,6 +94,15 @@ modification restriction than provided by the Apache License), and it must
 successfully demonstrate compatibility by passing a suite of interoperability
 tests, run against the public API of the product. In this way, the scope of
 modifications is limited.
+
+Furthermore, in the case of fast-evolving infrastructure software, it's worth
+noting that keeping local changes private is not a great long-term strategy.
+Maintaining a delta between code running in production and fast-evolving
+upstream open source code is very costly, and gets more difficult as time
+passes. Technical debt adds up quickly to a point where paying it back is
+impossible. Engaging upstream to propose your local improvements and finally
+getting most of them in the open source project itself is the only sane
+way forward over the long run.
 
 References
 ----------

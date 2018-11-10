@@ -16,9 +16,9 @@ The Four Opens are all about the acceptance of letting go of control over an
 open source project. One popular open source development model for an
 organization to release it has developed under an open source license. While
 most of them will also commit to a transparent and inclusive development
-process, the still frequently maintain control of the software with most of the
-design decisions being made by organization leaders and implemented by their
-employees. The principle of "Open design" takes this one step beyond and
+process, they still frequently maintain control of the software with most of
+the design decisions being made by organization leaders and implemented by
+their employees. The principle of "Open design" takes this one step beyond and
 guarantees a transparent and open process for planning and designing the
 software. It's about letting go of the control of the design of the software
 and its feature road-map, and accepting that it should be driven by the
@@ -40,20 +40,23 @@ The "Open Design" Principle in Practice
 ---------------------------------------
 
 Open Design begins with the establishment of a structure to guide the "when",
-"how", and "where" of the design process. Then "when" refers to the
+"how", and "where" of the design process. The "when" refers to the
 release-cadence of the software, particularly if it is a feature-based or
 time-based release. A feature-based release allows the community to reach a
 consensus on required capabilities a release should have, then only deliver the
 next version of the software when those features are complete. While there are
 many processes that can help estimate the time and effort it will take to
 deliver a set of requirements, feature-based releases often result in delays in
-delivery. If you're encouraging a large community of diverse developers, these
-delays can have differing and significant impacts, particularly on vendors who
-rely on release schedules for delivering software. Release delays can create
-tension in the community, and raise the barrier of entry for contributors by
-creating an unknown cost.
+delivery. If you're encouraging a large community of diverse developers, it
+gets pretty difficult to get commitments and coordinate activities, leading to
+significant delays. Those delays can have differing and significant impacts,
+particularly on vendors who rely on release schedules for delivering software.
+Release delays can create tension in the community, and raise the barrier of
+entry for contributors by creating an unknown cost.
 
-Because of those disadvantages, time-based releases are strongly preferred for
+Rather than adopting feature-based releases and doing a bad job at them, it
+is healthier to adopt time-based releases and embrace their benefits. Knowing
+when a release will be cut gives you predictability that is key to a
 healthy collaboration. With a time-based release, there's no single group that
 decides what feature can or can't be included in a release. The features that
 are complete at the release deadline are the features available in that

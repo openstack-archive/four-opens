@@ -9,7 +9,9 @@ Open Development
 
 "Open development" refers to the adoption of transparent and inclusive
 development processes that enable everyone to participate as an equal on a
-level playing field. Open development means that all patches are welcome for
+level playing field. Publicly-accessible services means that everyone can see
+everything about development activities, without even needing to sign up to a
+service. Open development also means that all patches are welcome for
 consideration, whether that patch is from a project founder or a first time
 contributor. A successful open source project will adopt a set of standards
 that clearly states the metrics and standards that a contribution will be
