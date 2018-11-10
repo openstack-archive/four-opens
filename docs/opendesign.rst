@@ -47,13 +47,16 @@ consensus on required capabilities a release should have, then only deliver the
 next version of the software when those features are complete. While there are
 many processes that can help estimate the time and effort it will take to
 deliver a set of requirements, feature-based releases often result in delays in
-delivery. If you're encouraging a large community of diverse developers, these
-delays can have differing and significant impacts, particularly on vendors who
-rely on release schedules for delivering software. Release delays can create
-tension in the community, and raise the barrier of entry for contributors by
-creating an unknown cost.
+delivery. If you're encouraging a large community of diverse developers, it
+gets pretty difficult to get commitments and coordinate activities, leading to
+significant delays. Those delays can have differing and significant impacts,
+particularly on vendors who rely on release schedules for delivering software.
+Release delays can create tension in the community, and raise the barrier of
+entry for contributors by creating an unknown cost.
 
-Because of those disadvantages, time-based releases are strongly preferred for
+Rather than adopting feature-based releases and doing a bad job at them, it
+is healthier to adopt time-based releases and embrace their benefits. Knowing
+when a release will be cut gives you predictability that is key to a
 healthy collaboration. With a time-based release, there's no single group that
 decides what feature can or can't be included in a release. The features that
 are complete at the release deadline are the features available in that
