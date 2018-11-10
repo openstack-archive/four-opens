@@ -95,6 +95,15 @@ successfully demonstrate compatibility by passing a suite of interoperability
 tests, run against the public API of the product. In this way, the scope of
 modifications is limited.
 
+Furthermore, in the case of fast-evolving infrastructure software, it's worth
+noting that keeping local changes private is not a great long-term strategy.
+Maintaining a delta between code running in production and fast-evolving
+upstream open source code is very costly, and gets more difficult as time
+passes. Technical debt adds up quickly to a point where paying it back is
+impossible. Engaging upstream to propose your local improvements and finally
+getting most of them in the open source project itself is the only sane
+way forward over the long run.
+
 References
 ----------
 .. [#OSI] https://opensource.org/licenses/alphabetical
