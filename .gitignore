@@ -1,0 +1,5 @@
+# Testenvironment
+.tox
+
+# Build directories
+doc/build
