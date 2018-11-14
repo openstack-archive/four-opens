@@ -20,10 +20,10 @@ in which contributions are evaluated on a level playing field. The metrics for
 evaluating a patch can include:
 
 - Correctness: does the code include tests of its functionality?
-- Quality Assurance: does the code integrate with other projects and not introduce
-regressions?
+- Quality Assurance: does the code integrate with other projects and
+  not introduce regressions?
 - Documentation: does a new feature include documentation on what
-it does and how to properly configure it?
+  it does and how to properly configure it?
 - Purpose: does the code implement a feature identified in the open design process?
 
 Automation, like automated unit, integration, and style checking, can go a long

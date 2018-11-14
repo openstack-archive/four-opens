@@ -48,7 +48,7 @@ project.
 
 Getting the current stake-holders input and buy-in is key to the success.
 Typically a mission statement is developed in the early days of the project
-when there are fewer contributors, which makes it critical€”and as a bonus, a
+when there are fewer contributors, which makes it critical and as a bonus, a
 bit easier--to have an open discussion and process. Similarly, changing the
 mission statement should not be taken lightly, and can be a challenging process
 as the community grows and there are a broader range of perspectives.  A good
@@ -173,8 +173,8 @@ normal development community and must be shared with your users and the
 ecosystem at large. Don't assume that you know all of the barriers that your
 community members may face. Take the extra steps to pro-actively ask them to
 identify the challenges they face in trying to contribute and then break down
-barriers to participation â€” whether those barriers are time zones, culture,
-gender, age, education, etc€¦ Supporting a diverse set of leaders, both
+barriers to participation  whether those barriers are time zones, culture,
+gender, age, education, etc. Supporting a diverse set of leaders, both
 geographical and by organization, can help reinforce this participation and
 will ultimately make for a stronger community.
 
