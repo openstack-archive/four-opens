@@ -1,0 +1,4 @@
+- project:
+  templates:
+    # Until we have real jobs set up, add this one
+    - noop-jobs
