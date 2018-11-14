@@ -1,3 +1,10 @@
 - project:
     templates:
-      - noop-jobs
+      - build-openstack-docs-pti
+    check:
+      jobs:
+        - tox-linters
+    gate:
+      jobs:
+        - tox-linters
+        
