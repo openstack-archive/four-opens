@@ -6,7 +6,8 @@ Where do the Four Opens originate from? They came from a need to do things
 differently.
 
 Free software started in the 80’s by defining four (initially three)
-freedoms [#fourfreedoms]_ that any free software should grant its users. Freedom
+freedoms [#fourfreedoms]_ that any free software should grant its
+users. Freedom
 0 was the freedom to run the program as you wish, for any purpose. Freedom 1
 was the freedom to study how the program works, and change it so it does your
 computing as you wish. Freedom 2 was the freedom to redistribute copies so you
@@ -25,7 +26,7 @@ by 2010 most open source projects were actually closed one way or another:
 their core development may be done behind closed walls, or their governance may
 be locked down to ensure control by its main sponsor. Sure, their end product
 was licensed under an open source license, but those were not really community
-projects anymore. 
+projects anymore.
 
 The control of a specific party over the code is discouraging contributors to
 participate: those are seen as free labor and are not on a level playing field

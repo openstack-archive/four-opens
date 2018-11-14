@@ -24,7 +24,8 @@ evaluating a patch can include:
   not introduce regressions?
 - Documentation: does a new feature include documentation on what
   it does and how to properly configure it?
-- Purpose: does the code implement a feature identified in the open design process?
+- Purpose: does the code implement a feature identified in the open
+  design process?
 
 Automation, like automated unit, integration, and style checking, can go a long
 way to establishing a baseline standard for new code. Code review by trusted

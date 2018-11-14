@@ -52,12 +52,13 @@ The "Open Source" Principle in Practice
 
 "Open Source" begins with the choice of license a community applies to its
 project. In most cases at the OpenStack Foundation, we use v2.0 of the Apache
-License [#apachev2]_. The license meets the requirements of being able to modify and
+License [#apachev2]_. The license meets the requirements of being able
+to modify and
 redistribute a work. It includes a number of provisions that also protect
 end-users by granting copyright and patent licenses to all end users, while
 limiting liability to the original copyright holder. This patent protection is
 one of the distinguishing features in comparison to other open source licenses,
-like the MIT License. 
+like the MIT License.
 
 In practice, individual and corporate contributors need to understand the
 consequences of contributing code to an Apache Licensed project, particularly
@@ -73,7 +74,7 @@ authorized to submit changes to the project and understands that their
 contributions will be used in accordance with the license. A CLA, being a
 stronger document, is also considered a barrier to entry. A DCO, in contrast,
 lowers the barrier to entry by removing the requirement to consent to a legal
-document [#CLAvDCO]_. 
+document [#CLAvDCO]_.
 
 Apache 2.0 is very liberal in allowing companies to modify and use the code in
 any way they want, and doesn't place requirements to release changes (although

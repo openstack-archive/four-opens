@@ -26,15 +26,21 @@ and downstream, but communities are complex organisms, and the reality is much
 more dynamic. It's important to establish common goals and build strong
 connections between the forces, because operating in silos will dilute the
 power of the community. Each force affects the others and they have to be
-working in harmony to achieve anything. 
+working in harmony to achieve anything.
 
 Open Community defines how to best align these forces through:
 
-- Common mission & goals.  - Effective governance & leadership.  - Diversity &
-  Inclusiveness.  - Contributor recognition & motivation.  - Communication.  -
-  Branding & positioning (example of collaboration across forces, product
-  definition).  - Education & On-boarding.  - Marketing & events.  - Ambassadors
-  & meet-ups.  - Cross-community collaboration (NIH).
+- Common mission & goals.
+- Effective governance & leadership.
+- Diversity & Inclusiveness.
+- Contributor recognition & motivation.
+- Communication.
+- Branding & positioning (example of collaboration across forces, product
+  definition).
+- Education & On-boarding.
+- Marketing & events.
+- Ambassadors & meet-ups.
+- Cross-community collaboration (NIH).
 
 Common Mission & Goals
 ----------------------
@@ -200,10 +206,10 @@ ultimately realized that we excluded a large portion of the world where Google
 products were inaccessible/unavailable.
 
 Host meetings in way that can be archived and searched so that the
-conversations are accessible to all time-zones and participants who do not speak
-English as their first language. Internationalization (translation, tool
-choices like google docs, time-zones), in general, helps foster a more diverse
-group of contributors.
+conversations are accessible to all time-zones and participants who do
+not speak English as their first language. Internationalization
+(translation, tool choices like google docs, time-zones), in general,
+helps foster a more diverse group of contributors.
 
 Board meetings in particular should be open so that anyone can dial in.
 Notes/re-cap should be sent out to the community at large via mailing lists

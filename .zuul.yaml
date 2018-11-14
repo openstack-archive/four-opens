@@ -3,6 +3,8 @@
       - build-openstack-docs-pti
     check:
       jobs:
-        - tox-linters:
-            voting: false
+        - tox-linters
+    gate:
+      jobs:
+        - tox-linters
         
