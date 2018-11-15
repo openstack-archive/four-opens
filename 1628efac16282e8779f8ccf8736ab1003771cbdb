@@ -1,0 +1,8 @@
+Code-Review+2: Chris Hoge <chris@openstack.org>
+Workflow+1: Chris Hoge <chris@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 15 Nov 2018 14:46:14 +0000
+Reviewed-on: https://review.openstack.org/617958
+Project: openstack/four-opens
+Branch: refs/heads/master
