@@ -86,27 +86,33 @@ that drives away contributors who aren't "tough enough" to handle the it.
 
 A base framework for an Open Community governance would balance 4 basic rules:
 
-Contributor-driven bodies It is critical that the people contributing code,
-documentation, usage experience, mentoring time or any other form of
-contribution to the project are aligned with the leadership of the project.
-Without contributor-driven bodies, leadership and contributors gradually drift
-apart, to the point where the contributors no longer feel like their leadership
-represents them, making the disruptive decision to fork the project under a
-new, contributor-aligned governance, generally leaving the old governance body
-with a trademark and an empty shell to govern.
+Contributor-driven bodies
+ It is critical that the people contributing code, documentation,
+ usage experience, mentoring time or any other form of contribution to
+ the project are aligned with the leadership of the project.
 
-Allowing for replacement Nobody should be appointed for life, as life will
-change people.  Contributors should regularly be consulted, and the governance
-should generally encourage turnover.
+ Without contributor-driven bodies, leadership and contributors
+ gradually drift apart, to the point where the contributors no longer
+ feel like their leadership represents them, making the disruptive
+ decision to fork the project under a new, contributor-aligned
+ governance, generally leaving the old governance body with a
+ trademark and an empty shell to govern.
 
-Distinct groups call for distinct governance bodies If a community is made of
-disjoint groups with little to no overlap in membership, and those groups all
-need decisions to be made, then they probably need to each have their own
-governance body at that level.
+Allowing for replacement
+ Nobody should be appointed for life, as life will change people.
+ Contributors should regularly be consulted, and the governance should
+ generally encourage turnover.
 
-Avoid vanity governance bodies There is no point in having a governance body
-where there is nothing to govern and no decision needed. Not every group of
-people in a community needs a governance body.
+Distinct groups call for distinct governance bodies
+ If a community is made of
+ disjoint groups with little to no overlap in membership, and those groups all
+ need decisions to be made, then they probably need to each have their own
+ governance body at that level.
+
+Avoid vanity governance bodies
+ There is no point in having a governance body where there is nothing
+ to govern and no decision needed. Not every group of people in a
+ community needs a governance body.
 
 There is no one-size-fits-all implementation of those basic rules that would
 work for any project. The size of the project is a critical difference.
@@ -127,21 +133,25 @@ give anyone a tie-breaking specific power.
 
 Some of the things that indicate a healthy community are:
 
-Diversity & inclusiveness Nowhere are the three forces (developers, users,
-ecosystem) more important than when dealing with diversity and inclusiveness.
-Providing an inclusive and safe experience for everyone, regardless of gender,
-sexual orientation, disability, physical appearance, body size, race,
-nationality or religion is not only critical to the health of the entire open
-source community, it's something that must be considered at the beginning of a
-project.
+Diversity & inclusiveness
+ Nowhere are the three forces (developers, users, ecosystem) more
+ important than when dealing with diversity and inclusiveness.
 
-Code of Conduct A code of conduct may not seem necessary as your community is
-getting its start.  However, creating a path for conflict identification and
-resolution at the start can head off issues before they balloon out of control
-and alienate valuable contributors and community members.  Make the code of
-conduct carefully crafted, but also prominent, part of larger strategy to be
-inclusive and diverse. The OpenStack Foundation initially adopted the Ubuntu
-Code of Conduct when establishing its own.
+ Providing an inclusive and safe experience for everyone, regardless
+ of gender, sexual orientation, disability, physical appearance, body
+ size, race, nationality or religion is not only critical to the
+ health of the entire open source community, it's something that must
+ be considered at the beginning of a project.
+
+Code of Conduct
+ A code of conduct may not seem necessary as your community is getting
+ its start. However, creating a path for conflict identification and
+ resolution at the start can head off issues before they balloon out
+ of control and alienate valuable contributors and community members.
+ Make the code of conduct carefully crafted, but also prominent, part
+ of larger strategy to be inclusive and diverse. The OpenStack
+ Foundation initially adopted the Ubuntu Code of Conduct when
+ establishing its own.
 
     The first lesson learned is the enforcement policy is equally as important
     as the code of conduct. We did not put enough thought into how it was
@@ -152,13 +162,14 @@ Code of Conduct when establishing its own.
     a strong message to the community that you have thought through the process
     and are looking out for their best interest.
 
-Representation?  A few years into the project, we worked with the community,
-including the Diversity Working Group, to publicly document an enforcement
-policy. Again, we looked to another successful open source community, Python
-and PyCon, as a basis for our policy. This policy gives anyone who wants to
-report an issue a clear call to action and sets expectations for how it will be
-handled and gives the Foundation staff a clear process to follow and removes
-the emotion from the process.
+ Representation? A few years into the project, we worked with the
+ community, including the Diversity Working Group, to publicly
+ document an enforcement policy. Again, we looked to another
+ successful open source community, Python and PyCon, as a basis for
+ our policy. This policy gives anyone who wants to report an issue a
+ clear call to action and sets expectations for how it will be handled
+ and gives the Foundation staff a clear process to follow and removes
+ the emotion from the process.
 
     Check the health of your community as you go. Do you have something similar
     to the following?
@@ -185,8 +196,10 @@ geographical and by organization, can help reinforce this participation and
 will ultimately make for a stronger community.
 
 Contributor Recognition & Motivation
+------------------------------------
 
 Communication
+-------------
 
 Is there anything more emblematic of the modern work-force than attempting to
 solve the problem of day-to-day communication? Open source communities face
@@ -222,90 +235,117 @@ messaging.  This can include local user groups, regional meet-ups,
 international/national summits, developer mid-cycles.  All can be used to
 further educate and engage your open source community.
 
-Branding & positioning (example of collaboration across forces, product
-definition) including tools and processes Develop with stake-holders, open to
-community Some degree of collaboration is useful and necessary, but only to an
-extent. This is especially true in regards to visual identity since it can be
+Branding & positioning
+----------------------
+
+Branding and positioning is an example of collaboration across forces
+and product definition including tools and processes.
+
+Develop with stake-holders, open to community Some degree of
+collaboration is useful and necessary, but only to an extent. This is
+especially true in regards to visual identity since it can be
 subjective and contentious. Design rationale should be provided to the
-community to build consensus, but there should be key decision makers to
-prevent the ideation process from continuing to infinity.  Lessons learned with
-project mascots In an attempt to provide consistency we discovered removed
-individuality with some projects Slippery slope - Once the projects got them,
-every small group also wanted their own mascot Upside - These are actually
-picked up and used regularly by the press and in group events.  Critical to
-develop brand guidelines, to give community guidelines to extend brand beyond
-internal resources Development of consistent UX to be applied to web-sites,
-documentation, etc....  This can be tough b/c the needs of the design team
-don't always mesh with the needs/methods of developers managing properties like
-documentation.  Design must be available as an easy plug in (HTML or javascript
-snippet) for headers and footers of sites.
+community to build consensus, but there should be key decision makers
+to prevent the ideation process from continuing to infinity. Lessons
+learned with project mascots In an attempt to provide consistency we
+discovered removed individuality with some projects Slippery slope -
+Once the projects got them, every small group also wanted their own
+mascot Upside - These are actually picked up and used regularly by the
+press and in group events. Critical to develop brand guidelines, to
+give community guidelines to extend brand beyond internal resources
+Development of consistent UX to be applied to web-sites,
+documentation, etc.... This can be tough b/c the needs of the design
+team don't always mesh with the needs/methods of developers managing
+properties like documentation. Design must be available as an easy
+plug in (HTML or javascript snippet) for headers and footers of sites.
 
-Marketing & Strategy Once the initial branding and positioning has been
-finalized, share with all key stake-holders. The challenge is often identifying
-the correct channel to ensure everyone is apprised of updates and changes. This
-may take time, but trying different options and even a combination of a
-few often helps reinforce the messaging and branding for the maximum impact.
-Ahead of the start of the year, identify the largest areas of opportunity to
-increase brand visibility and favorability to create a strategy. After
-identifying programs, events and projects that can support the strategy,
-communicate this back to the community, reaching out to the marketing teams at
-the ecosystem companies directly to participate and provide feedback. This is
-your biggest opportunity for a ripple effect.  Stay apprised of market share
-and user adoption metrics. Share these metrics openly and broadly, particularly
-with the ecosystem companies and elected officials who represent the three
-forces. This can be done in joint leadership meetings, both remote and in
-person, as well as mailing list newsletters. If the information could be
-perceived negatively, come prepared with a solution or action plan to increase
-confidence of key stake-holders. It's important to pro-actively share the
-negative information when possible to prevent reactionary fear, uncertainty and
-doubt.  Identify key dates and milestones that celebrate the successes of the
-community. Whether it's specific to a force, like a software release or new
-case study or specific to the software or community itself, like results in a
-market report or participation in a supported event. This helps create momentum
-and rewards the positive community efforts that are impacting another force or
-even the broader industry.  Leverage collaborative opportunities when possible.
-If the broader market perceptions indicate a confusion around facts that affect
-one of the three forces, collect the people most affected to identify a way to
-pro-actively address the problem. An example would be that OpenStack is seen as
-only a private cloud solution. A Public Cloud Working Group that
-collaborates to create programs and most recently messaging that will help
-alleviate the confusion is a response that helps leverage the affected parties
-to address the overarching issue.
+Marketing & Strategy
+--------------------
 
-Events Support upstream developers with dedicated space and events to
-collaborate and get work done. This includes collaboration within a project and
-cross-project collaboration.  Create a productive event that combines upstream
-developers with operators so that production challenges and successes can be
-combined with software road-maps and bug tracking.  Create an opportunity for
-ecosystem companies to interact with operators and developers to educate around
-available products, gain insights from the market and participate in road-map
-discussions.  Identify gaps in both the community and the overall market and
-use events as an opportunity to gather content, subject matter experts and
-adjacent communities to share knowledge and solve problems.  OpenStack Days
-Industry events
+Once the initial branding and positioning has been finalized, share
+with all key stake-holders. The challenge is often identifying the
+correct channel to ensure everyone is apprised of updates and changes.
+This may take time, but trying different options and even a
+combination of a few often helps reinforce the messaging and branding
+for the maximum impact. Ahead of the start of the year, identify the
+largest areas of opportunity to increase brand visibility and
+favorability to create a strategy. After identifying programs, events
+and projects that can support the strategy, communicate this back to
+the community, reaching out to the marketing teams at the ecosystem
+companies directly to participate and provide feedback. This is your
+biggest opportunity for a ripple effect. Stay apprised of market share
+and user adoption metrics. Share these metrics openly and broadly,
+particularly with the ecosystem companies and elected officials who
+represent the three forces. This can be done in joint leadership
+meetings, both remote and in person, as well as mailing list
+newsletters. If the information could be perceived negatively, come
+prepared with a solution or action plan to increase confidence of key
+stake-holders. It's important to pro-actively share the negative
+information when possible to prevent reactionary fear, uncertainty and
+doubt. Identify key dates and milestones that celebrate the successes
+of the community. Whether it's specific to a force, like a software
+release or new case study or specific to the software or community
+itself, like results in a market report or participation in a
+supported event. This helps create momentum and rewards the positive
+community efforts that are impacting another force or even the broader
+industry. Leverage collaborative opportunities when possible. If the
+broader market perceptions indicate a confusion around facts that
+affect one of the three forces, collect the people most affected to
+identify a way to pro-actively address the problem. An example would
+be that OpenStack is seen as only a private cloud solution. A Public
+Cloud Working Group that collaborates to create programs and most
+recently messaging that will help alleviate the confusion is a
+response that helps leverage the affected parties to address the
+overarching issue.
 
-Education & On-boarding Goal to make the barrier to entry as low as possible.
-Clear, discoverable and digestible documentation Recorded and real time
-on-boarding sessions - webinars, f2f sessions at events Suggest training the
-trainer - creating a toolbox and guidelines to provide to regional community
-members so they can lead their own on-boarding sessions Documented ways to
-communicate with seasoned experts / join meetings to accelerate on-boarding.
-Mentorship programs
+Events
+------
 
-Ambassadors & Meet-ups Supporting global communities through user groups,
-ambassador program, Providing resources & content for events and meet-ups, and
-setting precedents for those events (branding, content, etc.), while still
-giving them creative freedom building the relationships first; find leaders
-outside of the Foundation to foster new user groups leaders; collab sessions at
-Summits using tools available to all regions community of 90,000; team of 23
-(XX ambassadors, 100+ user groups) Collaborating with local leaders to better
-understand regional differences in the technology choices, use cases and
-community involvement.  Create a way to co-own user group contacts to ease the
-transfer of ownership if people leave the community or if there are any bad
-actors.
+Support upstream developers with dedicated space and events to
+collaborate and get work done. This includes collaboration within a
+project and cross-project collaboration. Create a productive event
+that combines upstream developers with operators so that production
+challenges and successes can be combined with software road-maps and
+bug tracking. Create an opportunity for ecosystem companies to
+interact with operators and developers to educate around available
+products, gain insights from the market and participate in road-map
+discussions. Identify gaps in both the community and the overall
+market and use events as an opportunity to gather content, subject
+matter experts and adjacent communities to share knowledge and solve
+problems. OpenStack Days Industry events
 
-Cross-community collaboration (NIH) From the very beginning invite other
-communities and projects to collaborate and participate. In turn actively reach
-out to engage and participate in other communities to enhance integration
-efforts.  Need examples here
+Education & On-boarding
+-----------------------
+
+Goal to make the barrier to entry as low as possible. Clear,
+discoverable and digestible documentation Recorded and real time
+on-boarding sessions - webinars, f2f sessions at events Suggest
+training the trainer - creating a toolbox and guidelines to provide
+to regional community members so they can lead their own on-boarding
+sessions Documented ways to communicate with seasoned experts / join
+meetings to accelerate on-boarding. Mentorship programs
+
+Ambassadors & Meet-ups
+----------------------
+
+Supporting global communities through user groups, ambassador
+program, Providing resources & content for events and meet-ups, and
+setting precedents for those events (branding, content, etc.), while
+still giving them creative freedom building the relationships first;
+find leaders outside of the Foundation to foster new user groups
+leaders; collab sessions at Summits using tools available to all
+regions community of 90,000; team of 23 (XX ambassadors, 100+ user
+groups) Collaborating with local leaders to better understand
+regional differences in the technology choices, use cases and
+community involvement. Create a way to co-own user group contacts to
+ease the transfer of ownership if people leave the community or if
+there are any bad actors.
+
+Cross-community collaboration (NIH)
+-----------------------------------
+
+From the very beginning invite other communities and projects to
+collaborate and participate. In turn actively reach out to engage and
+participate in other communities to enhance integration efforts. Need
+examples here
 
