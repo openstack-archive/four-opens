@@ -45,7 +45,7 @@ master_doc = 'index'
 
 # General information about the project.
 repository_name = 'openstack/four-opens'
-project = u'Four Opens'
+project = u'The Four Opens'
 bug_project = u'four-opens'
 use_storyboard = True
 
@@ -204,7 +204,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    ('index', 'FourOpens.tex', u'Four Opens',
+    ('index', 'FourOpens.tex', u'The Four Opens',
      u'OpenStack contributors', 'manual'),
 ]
 
@@ -234,7 +234,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'fouropens', u'Four Opens',
+    ('index', 'fouropens', u'The Four Opens',
      [u'OpenStack contributors'], 1)
 ]
 
@@ -248,7 +248,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    ('index', 'FourOpens', u'Four Opens',
+    ('index', 'FourOpens', u'The Four Opens',
      u'OpenStack contributors', 'FourOpens',
      'This book explains the Four Opens of OpenStack.',
      'Miscellaneous'),
