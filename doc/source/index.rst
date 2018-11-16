@@ -10,6 +10,6 @@ Contents
 
    introduction
    opensource
-   opencommunity
-   opendevelopment
    opendesign
+   opendevelopment
+   opencommunity
