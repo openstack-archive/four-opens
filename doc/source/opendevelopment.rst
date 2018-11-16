@@ -38,12 +38,15 @@ and trust within a community. Aspects of the open development process must
 include facilities for anyone (not just existing projects contributors and
 leaders) to:
 
-Discover current priorities and tasks. Report bugs and vulnerabilities. Leave
-reviews on existing patches. Submit patches to a project.
+- Discover current priorities and tasks.
+- Report bugs and vulnerabilities.
+- Leave reviews on existing patches.
+- Submit patches to a project.
 
 There must also be a clearly defined process that describes how a contributor
 can graduate to different levels of leadership within a project. The success of
 Open Development relies not just on the availability and accessibility of
 tooling in a project, but also upon the healthy governance of a community
-(which we will discuss further in the next chapter on "Open Community").
+(which we will discuss further in the next chapter on :doc:`Open
+Community <opencommunity>`).
 
